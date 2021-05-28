@@ -1,7 +1,7 @@
 # Toronto Temperature Time Series Analysis
 #### Forecasting temperatures in downtown Toronto under Box-Jenkins. 
 
-#### Read the Analysis: [[Notebook]](https://nbviewer.jupyter.org/github/SebastianLech/toronto_temps/blob/main/analysis_notebook.ipynb)
+#### Check out the Analysis: [[Notebook]](https://nbviewer.jupyter.org/github/SebastianLech/toronto_temps/blob/main/analysis_notebook.ipynb)
 
 #### Covers:
 
@@ -14,7 +14,9 @@
 
 https://climate.weather.gc.ca/historical_data/search_historic_data_e.html
 
-! [forecast image](https://github.com/SebastianLech/toronto_temps/blob/main/ts_forecast.png)
+! [forecast image](ts_forecast.png)
+
+
 
 
 
