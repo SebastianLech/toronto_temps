@@ -14,7 +14,7 @@
 
 https://climate.weather.gc.ca/historical_data/search_historic_data_e.html
 
-! [forecast image](ts_forecast.png)
+![forecast image](ts_forecast.png)
 
 
 
